@@ -1,5 +1,5 @@
-# NLP_Porject_Restaurant_reivew_semetic_classification- Project Overview
-This is my learning project when taking Machine Learning A-Z course on Udemy. The goal is to do semetic analysis/ classification on the restaurant reivew texts via bag of words model.
+# NLP_Porject_Restaurant_review_sematic_classification- Project Overview
+This is my learning project when taking Machine Learning A-Z course on Udemy. The goal is to do sematic analysis/ classification on the restaurant review texts via bag of words model.
 
 ## 1. Problem definition
 To deterimine a given restaurant review text is negative or possitive. 
